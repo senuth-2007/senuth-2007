@@ -20,6 +20,14 @@
 🚀 Currently diving into Full Stack Development, Machine Learning, and Cybersecurity.<br>
 📚 Always eager to build, experiment, and grow as a developer.<br><br>
 
+<div align="center">
+
+<!-- Snake Game with Dark Theme -->
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Dark Snake Game"/>
+
+</div>
+
+
 
 ## 🌐 Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/senuth2007) 
@@ -47,7 +55,6 @@
 <!-- GitHub Stats Cards -->
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; width: 100%;">
   <img src="https://github-readme-stats.vercel.app/api?username=senuth-2007&show_icons=true&theme=merko&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=senuth-2007&theme=merko" alt="GitHub Streak"/>
 </div>
 
 <!-- Contribution Graph -->
@@ -63,4 +70,10 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=senuth-2007&theme=merko" alt="Productive Time"/>
 </div>
 
+ <!-- Footer -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&animation=fadeIn" alt="Footer"/>
+
+</div>
+
+</div>
 
