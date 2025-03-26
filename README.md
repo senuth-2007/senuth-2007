@@ -14,11 +14,16 @@
 
 <div align="center">
 
-# 💫 About Me:
-👋 Hi there! I'm senuth, a passionate student exploring the world of programming.<br>
-💡 I love coding in Python and constantly learning new technologies.<br>
-🚀 Currently diving into Full Stack Development, Machine Learning, and Cybersecurity.<br>
-📚 Always eager to build, experiment, and grow as a developer.<br><br>
+<div align="center">
+  
+## 💫 About Me:
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"> **Hello, I'm Senuth!** <br>
+🚀 A passionate **Fullstack Developer**, **Cybersecurity Enthusiast**, and **Creative Coder**.  
+💡 I love **experimenting** with new technologies and **building innovative projects**.  
+📚 Currently learning **Machine Learning**, **AI**, and **Advanced Web Development**.  
+🎨 Also interested in **designing**, **3D animation**, and **digital art**.  
+
 
 <div align="center">
 
