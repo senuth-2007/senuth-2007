@@ -7,7 +7,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20Senuth's%20Profile!&fontSize=40&fontAlignY=35" alt="Banner" />
   
   <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hello World!;Fullstack+Developer+🚀;Cybersecurity+🛡️;Python+%26+C+Jedi+🐍;Creative+Coder+🎨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hello World!;Fullstack+Developer+🚀;Cybersecurity+🛡️;Python+%26+C+Jedi+🐍;Creative+Coder+🎨" />
   
   <!-- Animated Divider -->
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
