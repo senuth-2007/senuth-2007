@@ -43,16 +43,16 @@
 <div align="center">
 
 <!-- GitHub Stats (Auto-updating) -->
-<img src="https://github-readme-stats.vercel.app/api?username=senuth-2007&show_icons=true&theme=merko&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=senuth-2007&show_icons=true&theme=merko&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats"/>
 
 <!-- Auto-updating Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=senuth-2007&theme=merko&hide_border=true&area=true&custom_title=My%20Contribution%20Activity" width="100%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=senuth-2007&theme=merko&hide_border=true&area=true&custom_title=My%20Contribution%20Activity&timezone=UTC" width="100%" alt="Contribution Graph"/>
 
 <!-- Auto-updating GitHub Metrics -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=senuth-2007&theme=merko" alt="Profile Details"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=senuth-2007&theme=merko" alt="Repos per Language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=senuth-2007&theme=merko" alt="Most Commit Language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=senuth-2007&theme=merko" alt="Productive Time"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=senuth-2007&theme=merko&cache_seconds=1800" alt="Profile Details"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=senuth-2007&theme=merko&cache_seconds=1800" alt="Repos per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=senuth-2007&theme=merko&cache_seconds=1800" alt="Most Commit Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=senuth-2007&theme=merko&utc=true" alt="Productive Time"/>
 
 <!-- Animated Widget: Profile Trophy -->
 <img src="https://github-profile-trophy.vercel.app/?username=senuth-2007&theme=darkhub&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
@@ -63,7 +63,6 @@
 <!-- Fun Widget: GitHub Skyline Animation -->
 <a href="https://skyline.github.com/senuth-2007/2024"><img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-bd1e-4f02-83f7-45c565dd761c.gif" alt="GitHub Skyline" width="80%"></a>
 
- <!-- Footer -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&animation=fadeIn" alt="Footer"/>
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&animation=fadeIn" alt="Footer"/>
 </div>
-<div align="center">
